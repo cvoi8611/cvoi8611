@@ -1,10 +1,8 @@
 # cvoi8611's Github
 
 ## Projects
-- Spring Boot + React(TypeScript) + MySQL을 사용하여 캘린더 웹 풀스택 구현
-- [](https://github.com/cvoi8611/ks_capstone/tree/main/week_final)
-- JavaScript를 사용한 24시간 실시간 정보 전달 Discord 봇 구현
-- [](https://github.com/cvoi8611/discordBotForOsu)
+- [Spring Boot + React(TypeScript) + MySQL을 사용하여 캘린더 웹 풀스택 구현](https://github.com/cvoi8611/ks_capstone/tree/main/week_final)
+- [JavaScript를 사용한 24시간 실시간 정보 전달 Discord 봇 구현](https://github.com/cvoi8611/discordBotForOsu)
 - 네트워크 스터디를 통해 EPOLL 방식을 사용한 리버스 프록시 구현
 - 웹 바닐라 + NodeJS(Express)를 사용한 프로그래밍 기초 스터디 이수
 
